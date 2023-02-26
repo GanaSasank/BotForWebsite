@@ -1,6 +1,6 @@
 # BotForWebsite
-##Its a bot developed using PHP
-###Prerequisites:
+## Its a bot developed using PHP
+### Prerequisites:
 1) Install XAMPP
 2) Start Apache and Mysql in XAMPP contril panel
 3) Create a folder in the location C:\xampp\htdocs for example folder be "bot"
